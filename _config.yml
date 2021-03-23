@@ -1,9 +1,9 @@
-title: "UW CSE/STAT 416 Spring 2020: Introduction to Machine Learning"
+title: "Awesome Course"
 author:
   #name: GitHub User
   #email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
-UW CSE/STAT 416: Introduction to Machine Learning
+Course Number: Course Name
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -49,9 +49,11 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - index.md
+ - logistics.md
  - schedule.md
- - resources.md
  - homework.md
+ - office-hours.md
+ - resources.md
 
 # Build settings
 theme: minima
