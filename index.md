@@ -7,7 +7,7 @@ permalink: /
 ## Welcome to my course!
 
 ---
-## Logistics
+## Syllabus
 
 
 * **Instructor:** Awesome Instructor (email) 
@@ -35,6 +35,10 @@ permalink: /
 
 
 Check out the [resources](/resources/) page.
+
+## Assessment
+
+
 
 
 
